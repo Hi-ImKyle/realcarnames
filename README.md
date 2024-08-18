@@ -1,2 +1,4 @@
-# Real Car Names
-Replaces all the car names with their real life counterparts
+# I am not updating the names anymore
+
+## Kino can have it.
+Looked like they were planning on taking ZML mods without asking anyway.
